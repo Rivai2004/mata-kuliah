@@ -1,0 +1,3 @@
+cisco packet tracer
+ip configuration
+pengkabelan
