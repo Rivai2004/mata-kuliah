@@ -3,3 +3,5 @@ ip configuration
 pengkabelan
 test exam
 osi layer
+protokol tcp/ip
+router
