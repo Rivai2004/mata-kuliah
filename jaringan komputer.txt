@@ -4,6 +4,8 @@ pengkabelan
 test exam
 osi layer
 protokol tcp/ip
-router
+tes exam
+percobaan cisco packet tracer yang dikirimkan pa robi
+tes exam 2
 -kenapa langsung masuk ke router ?
 karena ini hanya percobaan saya pada waktu minggu lalu pa 
