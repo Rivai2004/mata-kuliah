@@ -6,3 +6,4 @@ osi layer
 protokol tcp/ip
 router
 -kenapa langsung masuk ke router ?
+karena ini hanya percobaan saya pada waktu minggu lalu pa 
