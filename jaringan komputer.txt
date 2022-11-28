@@ -5,3 +5,4 @@ test exam
 osi layer
 protokol tcp/ip
 router
+-kenapa langsung masuk ke router ?
